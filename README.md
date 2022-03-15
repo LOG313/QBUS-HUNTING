@@ -8,7 +8,7 @@ If you do not have a guns license you can only see the feed and the shop is labe
 you have a guns license it is labeled "GUNS LICENSE VERIFIED". 
 
 
-######## INSTRUCTIONS ARE IN ORIGINAL SCRIPT | https://github.com/daccakareem/dox-hunting | ########
+######## INSTRUCTIONS ARE FROM ORIGINAL SCRIPT | https://github.com/daccakareem/dox-hunting | ########
 
 # dox-hunting
 dox no pixel hunting for the new qb-core fixed and make it work with all event in it and some shop to it and add qb-target spawn ped 
