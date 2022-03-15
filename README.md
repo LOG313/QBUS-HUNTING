@@ -1,20 +1,14 @@
 # QBUS-HUNTING- 
-FIRST OF ALL I DID NOT MAKE THIS SCRIPT | CREDIT GOES TO https://github.com/daccakareem
+```CREDITS```
+made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
+EDITED BY ME
 
 
-
+```CHANGES```
 I simply edited this hunting script to make it so it is required to have a guns license to see the sniper and ammo.
 If you do not have a guns license you can only see the feed and the shop is labeled "NO GUNS LICENSE" while when
 you have a guns license it is labeled "GUNS LICENSE VERIFIED". 
 
-
-######## INSTRUCTIONS ARE FROM ORIGINAL SCRIPT | https://github.com/daccakareem/dox-hunting | ########
-
-# dox-hunting
-dox no pixel hunting for the new qb-core fixed and make it work with all event in it and some shop to it and add qb-target spawn ped 
-
-made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
-fix by : me :)
 
 ```
 video
