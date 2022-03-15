@@ -8,4 +8,4 @@ If you do not have a guns license you can only see the feed and the shop is labe
 you have a guns license it is labeled "GUNS LICENSE VERIFIED". 
 
 
-############################## INSTRUCTIONS ARE IN ORIGINAL SCRIPT | https://github.com/daccakareem/dox-hunting | ##############################
+######## INSTRUCTIONS ARE IN ORIGINAL SCRIPT | https://github.com/daccakareem/dox-hunting | ########
