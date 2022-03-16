@@ -1,10 +1,10 @@
 # QBUS-HUNTING
-# CREDITS
+# credits
 made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
 EDITED BY ME
 
 
-# CHANGES
+# changed
 I simply edited this hunting script to make it so it is required to have a guns license to see the sniper and ammo.
 If you do not have a guns license you can only see the feed and the shop is labeled "NO GUNS LICENSE" while when
 you have a guns license it is labeled "GUNS LICENSE VERIFIED". 
@@ -16,7 +16,7 @@ https://youtu.be/WiommypiiaA
 
 
 
-# DEPENDENCIES :
+# dependencies :
 ```
 https://github.com/BerkieBb/qb-target
 
@@ -46,7 +46,7 @@ https://github.com/BerkieBb/qb-target
 
 
 
-# in Config.Peds
+# in qb-target/init.lua/Config.Peds
 [1] = { 
   model = 'ig_hunter',
   coords = vector4(-678.95, 5839.77, 17.33, 217.38),
