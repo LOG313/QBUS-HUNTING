@@ -48,7 +48,8 @@ https://github.com/BerkieBb/qb-target
 
 
 # in qb-target/init.lua/Config.Peds
-```[1] = { 
+```
+[1] = { 
   model = 'ig_hunter',
   coords = vector4(-678.95, 5839.77, 17.33, 217.38),
   minusOne = true,
@@ -93,5 +94,6 @@ https://github.com/BerkieBb/qb-target
   },
   distance = 2.5,
   }
- },```
+ },
+ ```
 
