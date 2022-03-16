@@ -12,7 +12,7 @@ you have a guns license it is labeled "GUNS LICENSE VERIFIED".
 
 # video
 
-https://youtu.be/WiommypiiaA
+https://youtu.be/WiommypiiaA (WITHOUT EDIT)
 
 
 
