@@ -1,4 +1,4 @@
-# QBUS-HUNTING- 
+# QBUS-HUNTING
 # CREDITS
 made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
 EDITED BY ME
