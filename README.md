@@ -1,10 +1,10 @@
 # QBUS-HUNTING- 
-```CREDITS```
+# CREDITS
 made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
 EDITED BY ME
 
 
-```CHANGES```
+# CHANGES
 I simply edited this hunting script to make it so it is required to have a guns license to see the sniper and ammo.
 If you do not have a guns license you can only see the feed and the shop is labeled "NO GUNS LICENSE" while when
 you have a guns license it is labeled "GUNS LICENSE VERIFIED". 
