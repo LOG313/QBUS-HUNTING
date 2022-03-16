@@ -1,8 +1,8 @@
 # QBUS-HUNTING
 # credits
-made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting
-FIXED https://github.com/daccakareem/dox-hunting 
-EDITED BY ME
+made by : https://github.com/Doxthehuman/QBUS-Nopixel-Hunting |
+fixed by https://github.com/daccakareem/dox-hunting |
+EDITED BY ME |
 
 
 # changed
